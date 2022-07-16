@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi👋 Welcome to My Github
+---
+<!--![header](https://capsule-render.vercel.app/api?type=Waving&color=#B897FF&height=100&text=Sumin%20Park&fontColor=d6ace6&fontSize=50&fontAlign=70)-->
+```py
+My_Life = []
 
+while True :
+  My_Life.append('new challenge')
+```
 <!--
 **morningsumin/morningsumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
